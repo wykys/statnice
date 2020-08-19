@@ -1,4 +1,4 @@
-# MPKS Počítačové a komunikační sítě
+# MPKS - Počítačové a komunikační sítě
 1. Topologie sítí, způsoby přepínání, vlastnosti sítí typu store-and-forward, modely (ISO/OSI, TCP/IP), funkce jednotlivých vrstev.
 2. Aplikační protokoly HTTP, FTP, SMTP, DNS.
 3. Protokolová sestava TCP/IP: TCP (chybové řízení, řízení toku, metody proti zahlcení sítě), UDP, IP (směrování, fragmentace, adresování, NAT/PAT).
@@ -10,7 +10,7 @@
 9. Bezpečnost síťového provozu: základy kryptografie (symetrická, s veřejným klíčem, blokové a proudové šifry), autentizace, kryptografické otisky, certifikáty, SSL.
 10. Vysokorychlostní sítě, techniky MPLS, MPlambdaS, fotonické sítě.
 
-# MTEO Teorie elektronických obvodů
+# MTEO - Teorie elektronických obvodů
 1. Zákony a teorémy v elektronických obvodech.
 2. Obvodové funkce a parametry, póly a nulové body, vlastnosti přenosových funkcí.
 3. Maticové metody analýzy lineárních obvodů s regulárními a neregulárními prvky.
@@ -22,7 +22,7 @@
 9. Syntéza pasivních příčkových RLC článků.
 10. Analýza nelineárních rezistivních a setrvačných obvodů.
 
-# MCVT CAD v mikrovlnné technice
+# MCVT - CAD v mikrovlnné technice
 1. Základní parametry mikropáskových vedení (efektivní permitivita, šířka, ...).
 2. Realizace reaktančních prvků a rezonančních obvodů mikropáskovými vedeními.
 3. Postup návrhu kmitočtových filtrů.
@@ -34,7 +34,7 @@
 9. Princip numerické analýzy vlnovodu metodou konečných prvků.
 10. Princip numerické analýzy drátové antény momentovou metodou.
 
-# MMIA Mikrokontroléry pro pokročilé aplikace
+# MMIA - Mikrokontroléry pro pokročilé aplikace
 1. Speciální funkce ARM GCC. Optimalizace, volatile, inline, naked a weak funkce. Atomičnost a reentrance.
 2. Proměnné globální/lokální, registrové proměnné, zapouzdření proměnných, proměnné v paměti programu. Oddělený překlad.
 3. Použití ukazatelů, polí, řetězců. Dynamické paměťové struktury. Předávání proměnných funkcím. Paměťové segmenty.
@@ -52,7 +52,7 @@
 6. Rozhraní UART (RS232, RS485). Sběrnice I2C, 1-wire a SPI.
 7. Čítače/časovače AVR, režimy, princip generování PWM. Záchytná jednotka.
 
-# MIKS Implementace softwarových komunikačních systémů
+# MIKS - Implementace softwarových komunikačních systémů
 1. Architektury vysílačů a přijímačů, pásmové vzorkování, koncept softwarového a softwarově definovaného rádia.
 2. Reprezentace čísel, formát Qm, specifika aritmetiky v pevné řádové čárce
 3. Algoritmus CORDIC.
